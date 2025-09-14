@@ -1,34 +1,31 @@
-📜・mord-executor-setup
-1️⃣ download mord
+# Mord Executor
 
-go to the official github page
+**Mord** is a lightweight, safe, and fast executor for beta testing.  
+It allows users to run scripts and manage updates easily.
 
-click the green “Code” button
+---
 
-press “Download ZIP”
+## Features
+- Fast & lightweight
+- Easy to use (just run `mord.exe`)
+- Auto-update & purge system
+- Official releases only
 
-extract the ZIP anywhere on ur pc
+---
 
-2️⃣ run mord
+## Installation
+1. Download the ZIP from this repo
+2. Extract anywhere on your PC
+3. Double-click `mord.exe` to start
 
-open the extracted folder
+---
 
-double-click mord.exe
+## Beta Access
+Mord usually costs $10.99 for lifetime access.  
+During beta testing, it’s completely free! 🎉
 
-done ✅ ur executor is ready
+---
 
-3️⃣ about virus flags ⚠️
-
-some antiviruses might show fake flags on mord.exe
-
-this is normal for executors/cheat tools
-
-mord is 100% safe to use and does not harm ur pc
-
-4️⃣ notes
-
-don’t rename or move files inside the extracted folder
-
-if exe doesn’t open, try running as admin
-
-keep checking the github for the latest updates
+## Updates & Purges
+Old versions are automatically deleted when a major update is released.  
+Always check this repo for the latest version.
